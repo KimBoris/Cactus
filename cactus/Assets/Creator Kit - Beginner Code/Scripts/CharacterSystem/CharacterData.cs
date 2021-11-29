@@ -15,6 +15,7 @@ namespace CreatorKitCode
         public string CharacterName;
 
         public StatSystem Stats;
+        
         /// <summary>
         /// The starting weapon equipped when the Character is created. Set through the Unity Editor.
         /// </summary>
